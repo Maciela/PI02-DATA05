@@ -32,6 +32,6 @@ Para decidir que modelo era el adecuado se utilizaron las siguientes métricas:
 -Accuracy
 -Recall
 
-Finalmente, y como restultado del flujo de trabajo, el modelo que sea adecua al problema es el modelo de Regresión Logítica.
+Finalmente, y como restultado del flujo de trabajo, el modelo que sea adecua al problema es el modelo de Árbol de Decisión.
 
 Por último, generé un archivo .csv sólo con las predicciones, que tiene una sola columna llamada 'pred'.
